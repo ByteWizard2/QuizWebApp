@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RZphwuVKVFg=",
+  "dgSpecHash": "KTX01Fz88sI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\backend\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

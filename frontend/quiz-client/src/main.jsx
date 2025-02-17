@@ -8,6 +8,9 @@ import { ContextProvider } from './hooks/useStateContext.jsx'
 const darkTheme = createTheme({
   palette:{
     mode: 'dark'
+  },
+  typography:{
+    fontFamily:"IBM Plex Sans"
   }
 })
 

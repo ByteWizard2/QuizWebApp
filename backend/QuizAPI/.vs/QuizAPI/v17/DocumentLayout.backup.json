@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\QuizAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\backend\\QuizAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|c:\\users\\user\\desktop\\quizandrn\\project\\quizapi\\quizapi\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|c:\\users\\user\\desktop\\quizandrn\\project\\backend\\quizapi\\quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|c:\\users\\user\\desktop\\quizandrn\\project\\backend\\quizapi\\quizapi\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|c:\\users\\user\\desktop\\quizandrn\\project\\quizapi\\quizapi\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|c:\\users\\user\\desktop\\quizandrn\\project\\backend\\quizapi\\quizapi\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|c:\\users\\user\\desktop\\quizandrn\\project\\quizapi\\quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{783BFBCC-7068-4489-88A4-5EB2A19167C7}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,51 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 345,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\QuizAPI\\QuizAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\backend\\QuizAPI\\QuizAPI\\Program.cs",
               "RelativeDocumentMoniker": "QuizAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\QuizAPI\\QuizAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\backend\\QuizAPI\\QuizAPI\\Program.cs",
               "RelativeToolTip": "QuizAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T11:37:41.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ParticipantsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\QuizAPI\\QuizAPI\\Controllers\\ParticipantsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\backend\\QuizAPI\\QuizAPI\\Controllers\\ParticipantsController.cs",
               "RelativeDocumentMoniker": "QuizAPI\\Controllers\\ParticipantsController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\QuizAPI\\QuizAPI\\Controllers\\ParticipantsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\backend\\QuizAPI\\QuizAPI\\Controllers\\ParticipantsController.cs",
               "RelativeToolTip": "QuizAPI\\Controllers\\ParticipantsController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAcwEoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T11:16:53.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T11:16:53.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QuestionsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\QuizAPI\\QuizAPI\\Controllers\\QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\backend\\QuizAPI\\QuizAPI\\Controllers\\QuestionsController.cs",
               "RelativeDocumentMoniker": "QuizAPI\\Controllers\\QuestionsController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\QuizAPI\\QuizAPI\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\QuizAndRN\\Project\\backend\\QuizAPI\\QuizAPI\\Controllers\\QuestionsController.cs",
               "RelativeToolTip": "QuizAPI\\Controllers\\QuestionsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAADAMjMzM3MhwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T11:16:00.175Z",
               "EditorCaption": ""
