@@ -85,8 +85,8 @@
         "IsRequired": true
       },
       {
-        "Name": "participant",
-        "Type": "QuizAPI.Models.Participant",
+        "Name": "_participantResult",
+        "Type": "QuizAPI.Models.ParticipantResult",
         "IsRequired": true
       }
     ],
@@ -119,32 +119,6 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[QuizAPI.Models.Question, QuizAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "QuizAPI.Controllers.QuestionsController",
-    "Method": "PostQuestion",
-    "RelativePath": "api/Questions",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "question",
-        "Type": "QuizAPI.Models.Question",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "QuizAPI.Models.Question",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -216,6 +190,32 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuizAPI.Controllers.QuestionsController",
+    "Method": "RetriveAnswers",
+    "RelativePath": "api/Questions/GetAnswers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "qnIds",
+        "Type": "System.Int32[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "QuizAPI.Models.Question",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "QuizAPI.Controllers.WeatherForecastController",
